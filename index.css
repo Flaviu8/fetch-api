@@ -1,0 +1,43 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.title{
+    padding-top: 0.5%;
+}
+
+h1{
+    color: white;
+   padding-bottom: 10px;
+}
+
+#container-text{
+    margin: 0% 10%;
+}
+
+#container-text p{
+    display: flex;
+    color: white;
+    text-align: justify;
+    font-size: x-large;
+
+}
+
+.blocksText{
+    padding: 30px;
+    background: darkblue;
+    margin-top: 20px;
+
+
+}
+
+h2{
+    border-radius: 100%;
+    background: green;
+    color: white;
+    display: block;
+    width: 30px;
+    height: 30px;
+    text-align: center;
+
+}

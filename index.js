@@ -1,7 +1,3 @@
-fetch("https://jsonplaceholder.typicode.com/posts")
-.then((data) => data.json())
-.then((json) => console.log(json));
-
 
 let container = document.getElementById("container-text");
 
